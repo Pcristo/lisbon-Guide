@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "eat": "Where to Eat",
+    "about": "About",
+    "contact": "Contact",
+    "around_lisbon": "Around Lisbon",
+    "cascais": "Cascais",
+    "sintra": "Sintra"
+  },
+  "around": {
+    "cascais_title": "Discover Cascais",
+    "cascais_subtitle": "A charming coastal town with beautiful beaches and historic mansions.",
+    "sintra_title": "Explore Sintra",
+    "sintra_subtitle": "A fairytale town nestled in the mountains, famous for its romantic architecture.",
+    "monuments": "Monuments",
+    "eat": "Where to Eat",
+    "no_items": "No items found for this category yet."
+  },
+  "home": {
+    "hero_title": "Discover Lisbon",
+    "hero_subtitle": "Experience the magic of the city of seven hills.",
+    "cta": "Start Exploring"
+  },
+  "explore": {
+    "title": "What to See",
+    "subtitle": "Discover the most beautiful places in Lisbon, from historic monuments to creative hubs.",
+    "view_details": "View Details"
+  },
+  "eat": {
+    "title": "Where to Eat",
+    "subtitle": "Savor the flavors of Lisbon, from traditional seafood to world-famous pastries.",
+    "view_details": "View Details"
+  },
+  "details": {
+    "back": "Back",
+    "category": "Category",
+    "type": "Type",
+    "address": "Address",
+    "phone": "Phone",
+    "not_found": "Place not found",
+    "go_back_explore": "Go back to explore",
+    "types": {
+      "see": "Sightseeing",
+      "eat": "Gastronomy"
+    }
+  },
+  "about": {
+    "title": "About the Project",
+    "mission": "Our mission is to provide travelers with the best information to discover the hidden gems and iconic landmarks of Lisbon.",
+    "description": "This travel guide was created to showcase the beauty, history, and culture of Portugal's capital city.",
+    "features": {
+      "01": "Curated Local Experiences",
+      "02": "Historical & Cultural Insights",
+      "03": "Multilingual Support"
+    },
+    "stats": {
+      "authentic": "Authentic Content"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you. Send us a message!",
+    "info": {
+      "company": "Lisbonguide",
+      "address": "Rua Augusta 123, 1100-053 Lisboa, Portugal",
+      "phone": "+351 210 000 000",
+      "email": "hello@lisbonguide.com",
+      "description": "We are a team of passionate locals dedicated to showing you the best of our city. Whether you have a question about a specific spot or need travel advice, we're here to help.",
+      "labels": {
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email"
+      }
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully!",
+      "success_subtitle": "We'll get back to you as soon as possible.",
+      "recaptcha": "I'm not a robot"
+    },
+    "validation": {
+      "required": "This field is required",
+      "email": "Please enter a valid email"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "We use cookies to improve your experience on our website.",
+    "accept": "Accept",
+    "decline": "Decline"
+  }
+}

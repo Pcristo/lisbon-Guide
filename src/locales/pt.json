@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Início",
+    "explore": "Explorar",
+    "eat": "Onde Comer",
+    "about": "Sobre",
+    "contact": "Contacto",
+    "around_lisbon": "Arredores de Lisboa",
+    "cascais": "Cascais",
+    "sintra": "Sintra"
+  },
+  "around": {
+    "cascais_title": "Descubra Cascais",
+    "cascais_subtitle": "Uma charmosa vila costeira com belas praias e mansões históricas.",
+    "sintra_title": "Explore Sintra",
+    "sintra_subtitle": "Uma vila de conto de fadas aninhada nas montanhas, famosa pela sua arquitetura romântica.",
+    "monuments": "Monumentos",
+    "eat": "Onde Comer",
+    "no_items": "Nenhum item encontrado para esta categoria ainda."
+  },
+  "home": {
+    "hero_title": "Descubra Lisboa",
+    "hero_subtitle": "Experimente a magia da cidade das sete colinas.",
+    "cta": "Começar a Explorar"
+  },
+  "explore": {
+    "title": "O que Ver",
+    "subtitle": "Descubra os lugares mais bonitos de Lisboa, de monumentos históricos a centros criativos.",
+    "view_details": "Ver Detalhes"
+  },
+  "eat": {
+    "title": "Onde Comer",
+    "subtitle": "Saboreie os sabores de Lisboa, do marisco tradicional aos pastéis mundialmente famosos.",
+    "view_details": "Ver Detalhes"
+  },
+  "details": {
+    "back": "Voltar",
+    "category": "Categoria",
+    "type": "Tipo",
+    "address": "Morada",
+    "phone": "Telefone",
+    "not_found": "Local não encontrado",
+    "go_back_explore": "Voltar para explorar",
+    "types": {
+      "see": "Turismo",
+      "eat": "Gastronomia"
+    }
+  },
+  "about": {
+    "title": "Sobre o Projeto",
+    "mission": "A nossa missão é fornecer aos viajantes as melhores informações para descobrir as pérolas escondidas e os marcos icónicos de Lisboa.",
+    "description": "Este guia de viagem foi criado para mostrar a beleza, a história e a cultura da capital de Portugal.",
+    "features": {
+      "01": "Experiências Locais Curadas",
+      "02": "Informações Históricas e Culturais",
+      "03": "Suporte Multilingue"
+    },
+    "stats": {
+      "authentic": "Conteúdo Autêntico"
+    }
+  },
+  "contact": {
+    "title": "Contacte-nos",
+    "subtitle": "Gostaríamos muito de ouvi-lo. Envie-nos uma mensagem!",
+    "info": {
+      "company": "Lisbonguide",
+      "address": "Rua Augusta 123, 1100-053 Lisboa, Portugal",
+      "phone": "+351 210 000 000",
+      "email": "hello@lisbonguide.com",
+      "description": "Somos uma equipa de locais apaixonados dedicados a mostrar-lhe o melhor da nossa cidade. Se tiver uma pergunta sobre um local específico ou precisar de conselhos de viagem, estamos aqui para ajudar.",
+      "labels": {
+        "address": "Endereço",
+        "phone": "Telefone",
+        "email": "E-mail"
+      }
+    },
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "submit": "Enviar Mensagem",
+      "success": "Mensagem enviada com sucesso!",
+      "success_subtitle": "Entraremos em contacto o mais breve possível.",
+      "recaptcha": "Não sou um robô"
+    },
+    "validation": {
+      "required": "Este campo é obrigatório",
+      "email": "Por favor, insira um e-mail válido"
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "Utilizamos cookies para melhorar a sua experiência no nosso website.",
+    "accept": "Aceitar",
+    "decline": "Recusar"
+  }
+}
